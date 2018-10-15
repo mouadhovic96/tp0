@@ -1,0 +1,13 @@
+create table evaluation(
+id int primary key auto_increment,
+name varchar(20),
+rest varchar(20),
+nourriture int,
+salle int
+,service int,
+moy int);
+
+
+
+
+

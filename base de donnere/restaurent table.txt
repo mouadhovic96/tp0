@@ -1,0 +1,5 @@
+create table restaurent (
+id int primary key auto increment,
+name varchar(20),
+rest varchar(20),
+day varchar(20));
